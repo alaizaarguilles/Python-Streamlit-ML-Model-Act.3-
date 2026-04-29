@@ -22,6 +22,9 @@ This project showcases a simple object detection application that can identify c
 ## 🔍 Detected Objects
 - Person
 - Cellphone
+- Cup
+- Toothbrush
+- Spoon
 
 ## ⚙️ Factors Affecting Accuracy
 Detection accuracy may vary depending on:
